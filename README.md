@@ -6,5 +6,5 @@ contains a runner class and a RegexSearch class. The runner class requests text 
 only capital letters, no numbers.
 
 Task 2.
-The program returns the phone number and email address from the entered text
+The program returns the phone number and email address from the entered text.
 The program also has an interface with constants in which regular expressions are written to search for the necessary characters with the help of which we can display the information we need from the text on the screen
